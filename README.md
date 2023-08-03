@@ -1,6 +1,6 @@
-# IPL-Data-Analysis
+# IPL-Data-Analysis ( 2008- 2022)
 
- ***Some of the dashboards which are created on Power BI to analyze and visualize the Ipl Dataset from 2008 to 2022***
+ ***Some of the dashboards are created on Power BI to analyze and visualize the Ipl Dataset from 2008 to 2022***
 
  - **Overview of the Match**
 
